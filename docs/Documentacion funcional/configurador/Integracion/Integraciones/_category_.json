@@ -1,0 +1,8 @@
+{
+    "label": "Integraciones",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "El módulo de Administrar Integraciones facilita la gestión de integraciones dentro del sistema MaxPoint. Proporciona herramientas para listar, crear, editar, activar e inactivar registros, permitiendo al usuario organizar las integraciones eficientemente."
+    }
+  }

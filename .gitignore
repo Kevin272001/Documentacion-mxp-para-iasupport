@@ -18,3 +18,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# Ignorar archivo con nombre largo roto
+docs/Documentacion-endpoints/MXPI-Init/1.- EndpointsLoad-Homologation/b.-Load-data-for-transformation-then-homologation/Homologation-v1-transformation-For-Franchise-error/v1-transformation-For-Franchise-error.md

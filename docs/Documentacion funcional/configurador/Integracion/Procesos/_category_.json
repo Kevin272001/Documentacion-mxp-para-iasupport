@@ -1,0 +1,8 @@
+{
+    "label": "Procesos",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Aquí conoceras todo sobre los tipos de proceso CARGA, EXTRACCIÓN y TRANSFORMACIÓN."
+    }
+  }
